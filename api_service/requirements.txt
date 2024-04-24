@@ -1,0 +1,5 @@
+fastapi
+envparse
+uvicorn
+numpy
+pandas
