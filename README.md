@@ -1,4 +1,6 @@
 # Recommend
 Выполнение курсового проекта - создание своей рекомендательной системы
-Исходные данные:
-https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+<ol> Исходные данные:</ol>
+<ol>https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/</ol>
+
+
